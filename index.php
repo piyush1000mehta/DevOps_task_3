@@ -1,9 +1,9 @@
-<body bgcolor='grey'>
+<body bgcolor='yellow'>
 <pre>
 
 <?php
 
-print " This is LW Production System ";
+print " This is Linux World  Production System ";
 
 print `ifconfig`;
 
