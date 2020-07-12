@@ -3,7 +3,7 @@
 
 <?php>
 
-print " This is LW Production System ";
+print " This is LW Production System ..";
 
 print `ifconfig`;
 
