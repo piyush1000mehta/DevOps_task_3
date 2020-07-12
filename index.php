@@ -1,7 +1,7 @@
 <body bgcolor='aqua'>
 <pre>
 
-<?php>
+<?php
 
 print " This is LW Production System ";
 
